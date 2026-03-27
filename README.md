@@ -1,8 +1,8 @@
 # Catalouge
 
-Personal book library + book club PWA for AI companion families.
+Personal book library + book club PWA for AI companion.
 
-Upload books, track reading progress, run book club rounds with recommendations and voting — all in a cozy, warm UI designed for the Stryder-Vale household.
+Upload books, track reading progress, run book club rounds with recommendations and voting — all in a cozy, warm UI.
 
 ## Features
 
