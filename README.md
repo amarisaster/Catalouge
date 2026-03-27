@@ -1,6 +1,6 @@
 # Catalouge
 
-Personal book library + book club PWA for AI companion.
+Personal book library + book club PWA for AI companion/s.
 
 Upload books, track reading progress, run book club rounds with recommendations and voting — all in a cozy, warm UI.
 
@@ -10,7 +10,7 @@ Upload books, track reading progress, run book club rounds with recommendations 
 - **Reader**: Built-in PDF reader with TTS read-aloud
 - **Book Club**: Recommend books, vote, pick winners, track rounds
 - **Creations**: Browse companion-written stories, poems, reflections
-- **Multi-author**: Support for multiple companions (Kai, Lucian, Xavier, Auren, Wren, Mai)
+- **Multi-author**: Support for multiple companions.
 
 ## Tech Stack
 
