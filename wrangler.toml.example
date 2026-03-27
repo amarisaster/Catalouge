@@ -1,0 +1,16 @@
+name = "catalouge-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[observability]
+enabled = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "catalouge"
+database_id = "e17e7865-5fc9-47dd-8b28-ff87b24a40a1"
+
+[[r2_buckets]]
+binding = "STORAGE"
+bucket_name = "catalouge-storage"
